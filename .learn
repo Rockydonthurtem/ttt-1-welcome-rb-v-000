@@ -3,4 +3,3 @@ tags:
   - tictactoe
 languages:
   - ruby
-puts "Welcom to Tic Tac Toe!"
